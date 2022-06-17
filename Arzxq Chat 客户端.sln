@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arzxq Chat 客户端", "Arzxq Chat 客户端.vcxproj", "{B41667DA-747E-495E-9554-D2956D1762EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Debug|x64.ActiveCfg = Debug|x64
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Debug|x64.Build.0 = Debug|x64
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Debug|x86.Build.0 = Debug|Win32
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Release|x64.ActiveCfg = Release|x64
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Release|x64.Build.0 = Release|x64
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Release|x86.ActiveCfg = Release|Win32
+		{B41667DA-747E-495E-9554-D2956D1762EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFB1138-3E3A-499E-9706-A838F1617F5D}
+	EndGlobalSection
+EndGlobal
